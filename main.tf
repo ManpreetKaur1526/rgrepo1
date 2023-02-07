@@ -3,5 +3,5 @@ resource "azurerm_resource_group" "example" {
   location = var.loc
   tags = {
     createdby = "TS Team"
-}
+  }
 }
