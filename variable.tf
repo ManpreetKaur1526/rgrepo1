@@ -1,0 +1,2 @@
+variablr "rgname"{}
+variable "loc" {}
